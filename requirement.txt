@@ -1,6 +1,11 @@
-pip install flask flask-mqtt pymongo flask-jwt-extended flask-restx 
-pip install flask-socketio apscheduler
-pip install python-decouple
-pip install -U flask-cors
-pip install python-dateutil
-pip install python-dotenv
+flask 
+flask-mqtt 
+pymongo 
+flask-jwt-extended 
+flask-restx 
+flask-socketio
+apscheduler
+python-decouple
+flask-cors
+python-dateutil
+python-dotenv
