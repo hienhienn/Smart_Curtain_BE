@@ -56,18 +56,18 @@ You can use MongoDB Atlas or a local MongoDB.
     python app.py
 ```
 # How to expose this project to internet
-**Note" Make sure you have install nodejs and npm before do this**
+**Note: Make sure you have install nodejs and npm before do this**
 1. Install vercel CLI
 ```bash
-	npm install	-g vercel
+npm install	-g vercel
 ```
 2. Login to vercel
 ```bash
-	vercel login
+vercel login
 ```
 3. Deploy this app
 ```
-	vercel
+vercel
 ```
 # All APIs and Websockets to client
 A client app that wants to control the smart curtain must use these APIs and Websockets.
