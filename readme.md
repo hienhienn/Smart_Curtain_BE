@@ -82,47 +82,47 @@ This app publishes and subscribes the follow topic to HiveMQ cloud
 1. Publish messages to topics
 - auto_requests (QoS = 2)
 ```json
-	{
-		"status": true/false,
-		"percent": ....,
-		"correlation_data": ...
-	}
+{
+	"status": true/false,
+	"percent": ....,
+	"correlation_data": ...
+}
 ```
 - alarm_requests (QoS = 2)
 ```json
-	{		
-		"percent": ....,
-		"correlation_data": ....
-	}
+{		
+	"percent": ....,
+	"correlation_data": ....
+}
 ```
 2. Subcribe messages to topics
 - esp32_status (QoS = 2)
 ```json
-    {
-		"activate": true/false
-	}
+{
+	"activate": true/false
+}
 ```
 - inform (QoS = 1)
 ```json
-	{
-		"indoor": ....,
-		"outdoor": ....,
-		"ledState": ....,
-		"percent": ....,
-	}
+{
+	"indoor": ....,
+	"outdoor": ....,
+	"ledState": ....,
+	"percent": ....,
+}
 ```
 - auto_responses (QoS = 2)
 ```json
-	{
-		"status": true/false,
-		"correlation_data": ....
-	}
+{
+	"status": true/false,
+	"correlation_data": ....
+}
 ```
 - alarm_responses (QoS = 2)
 ```json
-	{
-		"status": true/false,
-		"auto_status": true/false,
-		"correlation_data": ...
-	}
+{
+	"status": true/false,
+	"auto_status": true/false,
+	"correlation_data": ...
+}
 ```
