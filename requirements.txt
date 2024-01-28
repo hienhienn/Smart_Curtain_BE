@@ -1,10 +1,10 @@
-flask 
-flask-mqtt 
-pymongo 
-flask-jwt-extended 
-flask-restx 
+flask
+flask-mqtt
+pymongo
+flask-jwt-extended
+flask-restx
 flask-socketio
-apscheduler
+APScheduler
 python-decouple
 flask-cors
 python-dateutil
