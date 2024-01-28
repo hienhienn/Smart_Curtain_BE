@@ -167,7 +167,7 @@ jwt = JWTManager(app)
 
 
 from flask_restx import Api, Resource, fields
-api = Api(app, title='Bạn Hoàng rất đẹp trai!', version='1.0', description='API for controlling smart curtain')
+api = Api(app, title='API Document', version='1.0', description='API for controlling smart curtain')
 
 # Tạo model để validate dữ liệu trả về (Swagger)
 result_model = api.model('result',{
