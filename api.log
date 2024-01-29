@@ -1,0 +1,38 @@
+2024-01-29 17:17:49,025 - INFO - Username: 1 -- is logging in!
+2024-01-29 17:17:49,026 - INFO - Username: 1 -- logged in successfully!
+2024-01-29 17:17:52,930 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:17:52,931 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:17:53,210 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:17:53,210 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:18:16,742 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:18:16,746 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:18:16,762 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:18:16,818 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:18:46,132 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:18:46,133 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:18:46,161 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:18:46,169 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:19:28,572 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:19:28,574 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:19:28,897 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:19:28,897 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:19:40,274 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:19:40,274 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:19:40,361 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:19:40,361 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:19:43,502 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:19:43,502 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:19:43,765 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:19:43,765 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:19:58,703 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:19:58,703 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:19:59,000 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:19:59,000 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:20:04,732 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:20:04,733 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:20:05,051 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:20:05,051 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:21:03,821 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:21:03,822 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
+2024-01-29 17:21:03,837 - INFO - Username: 1 -- GET "/status"
+2024-01-29 17:21:03,838 - INFO - Username: 1 -- Response for GET "/status": 501 {'error': 'Esp32 disconnect to broker!'}
